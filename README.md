@@ -1,8 +1,8 @@
-# ***Aniele Pereira Ardisson✨***
+# ***Aniele✨***
 
 ## **Sobre mim**✍🏻:
 ### _Olá a todos!_
-### Meu nome é Aniele, tenho 19 anos e sou estudante de Engenharia de Software na Unicesumar. Embora esteja iniciando minha jornada no mundo da programação, já me sinto apaixonada pela área. Minha sede por conhecimento me impulsiona a dedicar-me constantemente aos estudos, com o objetivo de me tornar uma profissional de excelência.
+### Meu nome é Aniele, sou estudante de Engenharia de Software na Unicesumar. Embora esteja iniciando minha jornada no mundo da programação, já me sinto apaixonada pela área. Minha sede por conhecimento me impulsiona a dedicar-me constantemente aos estudos, com o objetivo de me tornar uma profissional de excelência.
 
 ## **Conecte-se comigo**📲:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnielePA)
